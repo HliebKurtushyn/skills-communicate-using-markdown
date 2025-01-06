@@ -5,3 +5,8 @@
 ``` python
 description = "This is so cute dog!"
 ```
+
+
+- [x] Said this is so cute dog
+- [x] Saved the file
+- [ ] Started an app
